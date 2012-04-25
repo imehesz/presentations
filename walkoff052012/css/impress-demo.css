@@ -49,6 +49,14 @@ time, mark, audio, video {
     vertical-align: baseline;
 }
 
+small{
+	font-size: 0.5em;
+}
+
+.text-right{
+	text-align: right;
+}
+
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
