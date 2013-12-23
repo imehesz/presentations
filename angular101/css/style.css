@@ -1,0 +1,77 @@
+.front-title {
+  text-align: center;
+  margin-top: 20%;
+}
+
+.front-title a {
+  font-weight: bolder;
+}
+
+.front-title a:hover {
+  text-decoration: underline;
+}
+
+p {
+  margin-top: 10px;
+}
+
+p a {
+  font-weight: bolder;
+}
+
+p a:hover {
+  text-decoration: underline;
+}
+
+.nacho-flying {
+    text-align: right;
+}
+
+.nacho-standing {
+  margin-top: 10%;
+  margin-left: -15%;
+}
+
+
+.text-center {
+  text-align: center;
+}
+
+.small {
+  font-size: 50%;
+}
+
+q.banner{
+  font-weight: bolder;
+  font-size: 200%;
+}
+
+#new-jquery-maybe {
+  opacity: 0;
+}
+
+#new-jquery-maybe.active {
+  opacity: 1;
+}
+
+.maybe {
+  color:#a6120d;
+  font-size:225%;
+  margin-top:10%;
+}
+
+#jquery-stats {
+  opacity: 0;
+}
+
+#jquery-stats.active {
+  opacity: 1; 
+}
+
+#angular-stats {
+  opacity: 0;
+}
+
+#angular-stats.active {
+  opacity: 1; 
+}
